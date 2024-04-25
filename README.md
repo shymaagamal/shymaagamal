@@ -2,7 +2,7 @@
 
 ## 👨‍💼 About Me
 
-I am a passionate and versatile engineer with a Bachelor's degree in Systems and Biomedical Engineering from Cairo University, graduating with a GPA of 3.48 in 2020. My journey in the tech industry has led me to specialize in software development, AI research, and embedded systems.
+I am a passionate and versatile engineer with a Bachelor's degree in Systems and Biomedical Engineering from Cairo University, graduating in 2021. My journey in the tech industry has led me to specialize in software development, AI research, and embedded systems.
 
 ## 💻 Skills
 
@@ -21,7 +21,7 @@ I am a passionate and versatile engineer with a Bachelor's degree in Systems and
 
 ## 📚 Education
 
-- **Bachelor's Degree**: Systems and Biomedical Engineering, Cairo University, 2016 - 2020
+- **Bachelor's Degree**: Systems and Biomedical Engineering, Cairo University, 2016 - 2021
   - GPA: 3.48
 
 ## 📧 Contact
