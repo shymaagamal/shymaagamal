@@ -1,6 +1,6 @@
 # 🚀 Shaimaa Gamal Saeed Salem
 
-## 👨‍💼 About Me
+## 👩‍💼 About Me
 
 I am a passionate and versatile engineer with a Bachelor's degree in Systems and Biomedical Engineering from Cairo University, graduating in 2021. My journey in the tech industry has led me to specialize in software development, AI research, and embedded systems.
 
