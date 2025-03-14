@@ -11,14 +11,6 @@ I am a passionate and versatile engineer with a Bachelor's degree in Systems and
 - **Embedded Systems**: Knowledgeable in microcontroller architecture, communication protocols, and automotive bus technology standards.
 - **DevOps**: Currently pursuing diplomas in Embedded Linux and DevOps, with expertise in Docker, Jenkins, Kubernetes, and AWS.
 
-## 🛠️ Projects
-
-### Medical Segmentation Software
-- Developed advanced medical segmentation software using Modern C++, Qt6, and QML, optimizing both time and memory consumption.
-
-### Thermal Image Analysis
-- Spearheaded a research project at Cairo University combining manual feature engineering and deep learning to enhance thermal images, achieving exceptional accuracy and efficiency.
-
 ## 📚 Education
 
 - **Bachelor's Degree**: Systems and Biomedical Engineering, Cairo University, 2016 - 2021
